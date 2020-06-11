@@ -1,2 +1,2 @@
-# pluto
+# plutous
 GitHub Pages
